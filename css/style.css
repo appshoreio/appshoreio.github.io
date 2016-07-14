@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300);
+
+body {
+	font-family: "Source Sans Pro", helvetica, arial;
+	font-weight: 200;
+	background-color: #323C50;
+	color: #555;
+}
+
+h1 {	
+	padding: 2rem 4rem 2rem 4rem;
+}
+
+h2 {
+	padding: 0 4rem 0 4rem;
+	font-size: 3rem;
+	font-weight: 300;
+}
+
+a {
+	font-weight: 300;
+}
+
+a.app-link {
+    text-decoration: none;
+    color: #327396;
+}
+
+a.app-link:hover {
+	text-decoration: none;
+	color: #3C96C8;
+}
+
+.content {
+	background-color: #f7f7f7;
+	margin-top: 3rem;
+	border-radius: 5px;
+}
+
+.title {
+	padding: 2rem 4rem 2rem 4rem;
+	margin: 0 0 4rem 0;
+	background-color: #327396;
+	color: white;
+	font-size: 3rem;
+	font-weight: 200;	
+}
+
+.showcase {
+	padding: 2rem 4rem 2rem 4rem;
+}
+
+.icon {
+	margin-right: 20px; 
+	margin-bottom: 40px;
+	width: 100px;
+	height: 100px;
+}
+
+.separator {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.navigation {
+	text-align: center;
+}
+
+.navigation a {
+	font-size: 1.2rem;
+	color: #347196;
+}
+
+.navigation p {
+	margin-bottom: 1rem;
+}
+
+.imprint {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.imprint p {
+	margin: 0;
+	color: #999;
+	font-size: 1.2rem;
+	text-align: center;
+}

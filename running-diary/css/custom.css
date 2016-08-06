@@ -1,9 +1,9 @@
-/* Shared */
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,200,600);
 
 body {
   font-family: "Source Sans Pro", helvetica, arial;
-  font-weight: 200;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
 }
 
 .button {
@@ -23,6 +23,7 @@ body {
 .section-heading,
 .section-description {
   margin-bottom: 1.2rem;
+  font-weight: 400;
 }
 
 .section-disclaimer {
@@ -74,11 +75,12 @@ body {
 
 .value-heading {
   margin-bottom: .3rem;
+  font-weight: 400;
 }
 
 .value-description {
   opacity: .8;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 /* Info */
